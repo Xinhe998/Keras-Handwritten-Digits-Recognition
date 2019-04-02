@@ -1,4 +1,4 @@
-# 準備mnist資料
+"""# 準備mnist資料"""
 
 import numpy as np
 import pandas as pd
